@@ -1,1 +1,3 @@
-# HackerRank_cpp
+# HackerRank C++
+
+This is a collection of code solutions I have personally solved on HackerRank. I dedicated my free time to conquering these coding challenges, and each solution has been rigorously tested to ensure flawless functionality. These code solutions represent my personal trophies from the battlefield of programming prowess, and they serve as a testament to my passion for coding. I'm always on the lookout for new challenges to conquer, and HackerRank is my go-to destination. Solving these problems has been an exercise in geekery, and I'm proud to share my results with the world. I encourage other coding enthusiasts to explore this collection and learn from my experiences
